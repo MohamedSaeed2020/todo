@@ -1,16 +1,15 @@
-# todo
+# TODO
+Save your daily tasks and do them later..
 
-A new Flutter project.
+# Features
+1) Create your tasks to achieve them later.
+2) Archive your tasks to achieve them later.
+3) Delete done tasks.
+4) Select a date and time for your task.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Technologies Used
+1) State management using Bloc
+2) SQFLite database
+3) Reusable Components
+4) Bottom Navigation Bar
+4) Floating Action Button
